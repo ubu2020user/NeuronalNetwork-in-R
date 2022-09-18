@@ -1,14 +1,15 @@
-Package: Facharbeit.NeuronalNetwork
+Package: NeuronalNetwork-in-R
 Type: Package
 Title: NeuronalNetwork
 Version: 0.1.0
 Author: Daniel the Boss
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: The package will not be maintained!
 Description: This is a proof of concept of implementing a neuronal network with object oriented structures in R.
-    + Object oriented
-    + Reusable
-    + State of the art structures & architectures
-    + From scratch (as minimal libraries as possibles)
-License: What license is it under?
+    The neuronalNetwork shall be:
+      + Object oriented
+      + Reusable
+      + State of the art structures & architectures
+      + From scratch (as minimal libraries as possibles)
+License: MIT
 Encoding: UTF-8
 LazyData: true
