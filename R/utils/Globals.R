@@ -1,1 +1,0 @@
-neuronsPackage <- "Facharbeit.NeuronalNetwork"
