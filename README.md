@@ -7,7 +7,8 @@ The question was if it is possible to create an object oriented neuronal network
 Most of the parts of this neuronal network work. 
 
 The neuronal network example does not work right. 
-It has some flaws, that could not be identified and fixed.
+It has some flaws, that could not be identified and fixed in time.
+Nevertheless, it works somehow and is interesting to be viewed. Give it a try ;)
 
 # Introduction #
 In **Main.R** file you find an example how to use the objects and classes.
@@ -29,3 +30,23 @@ Feel free :)
 
 The print function(s) of the NN was the coolest part of the whole work! 
 I love it! <3
+
+_________
+
+Personally, I learned a lot about R. Since it is not object oriented in the 
+"old fashioned" way, I had difficulties creating classes, functions and to connect them.
+
+A major topic is the state of variables. If a function alters a variable, it does not get a new value 
+(I called it "state" in the docs).
+The function **does not** override the original variable but creates a new one.
+You have to do it the following way:
+```x <- function(x)```
+
+Such things were new to me and consumed a lot of time.
+But I learned a great deal about R, I wouldn't have the usual way.
+
+If you'd like a real presentation and 1to1 experience sharing, 
+feel free to contact me, :)
+
+Dan
+
