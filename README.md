@@ -39,6 +39,7 @@ Personally, I learned a lot about R. Since it is not object oriented in the
 A major topic is the state of variables. If a function alters a variable, it does not get a new value 
 (I called it "state" in the docs).
 The function **does not** override the original variable but creates a new one.
+
 You have to do it the following way:
 ```x <- function(x)```
 
