@@ -1,5 +1,6 @@
 # NeuronalNetwork-in-R
 This project was an attempt of a **proof of concept** to create a NeuronalNetwork from scratch.
+The language was learned and used in a months time.
 
 # General Notice #
 This achievement was completed as part of the course for an examination module.
